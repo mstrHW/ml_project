@@ -1,0 +1,6 @@
+.idea/*
+.ipynb_checkpoints/*
+*.pyc
+experiments/*
+dataset/*
+trained_models_dir/*
